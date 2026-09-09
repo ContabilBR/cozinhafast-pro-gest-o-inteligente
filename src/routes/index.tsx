@@ -10,7 +10,7 @@ import { Hero } from "@/components/landing/hero";
 import { Modulos } from "@/components/landing/modulos";
 import { Precos } from "@/components/landing/precos";
 import { Problema } from "@/components/landing/problema";
-import { ProvaSocial } from "@/components/landing/prova-social";
+
 import { Virada } from "@/components/landing/virada";
 
 const TITLE = "CozinhaFast Pro — Sistema para restaurante com comanda digital";
@@ -76,7 +76,7 @@ function Index() {
         <ComoFunciona />
         <Modulos />
         <Diferenciais />
-        <ProvaSocial />
+        
         <Precos />
         <Faq />
         <CtaFinal />

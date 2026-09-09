@@ -13,16 +13,6 @@ export function Precos() {
   return (
     <section id="precos" className="py-16 sm:py-24">
       <div className="mx-auto max-w-4xl px-5 text-center">
-        <p className="text-sm font-bold uppercase tracking-widest text-primary">Planos</p>
-        <h2 className="mt-3 text-3xl font-extrabold sm:text-4xl">
-          R$99 por mês, por tempo limitado
-        </h2>
-        <p className="mx-auto mt-4 max-w-xl leading-relaxed text-muted-foreground">
-          O valor cheio dos planos vai de R$179 a R$229 por mês, conforme os módulos que o seu
-          restaurante usa. Enquanto o CozinhaFast Pro está nessa fase inicial, quem entrar agora
-          garante um preço promocional — sem cartão de crédito para começar a conversa.
-        </p>
-
         <div className="mx-auto mt-10 max-w-xl rounded-3xl border border-border bg-card p-8 text-left shadow-sm">
           <div className="flex items-center justify-between gap-3">
             <p className="text-sm font-semibold text-muted-foreground">Plano CozinhaFast Pro</p>

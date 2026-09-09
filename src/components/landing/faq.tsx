@@ -16,7 +16,7 @@ export const perguntas = [
   },
   {
     q: "E se cair a internet no meio do serviço?",
-    a: "O aplicativo continua aberto e você segue lançando os pedidos no aparelho. Quando a conexão volta, as informações sincronizam entre os dispositivos. Para o painel de cozinha e o cardápio por QR Code, a rede local precisa estar funcionando.",
+    a: "O CozinhaFast Pro funciona conectado à internet, como praticamente todo sistema de gestão hoje em dia. Para evitar imprevistos, recomendamos manter uma internet de backup disponível no restaurante (por exemplo, um chip de celular), do mesmo jeito que qualquer negócio já faz para a maquininha de cartão.",
   },
   {
     q: "Quanto tempo leva para configurar?",

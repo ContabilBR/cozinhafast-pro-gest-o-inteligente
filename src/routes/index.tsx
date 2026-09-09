@@ -45,7 +45,7 @@ export const Route = createFileRoute("/")({
             "@type": "Offer",
             price: "179.00",
             priceCurrency: "BRL",
-􀀀        },
+},
         }),
       },
       {

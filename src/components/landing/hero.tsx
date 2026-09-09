@@ -40,7 +40,7 @@ export function Hero() {
             <p className="text-xs font-medium text-muted-foreground">Mesa 07 · comanda digital</p>
             <p className="mt-1 flex items-center gap-2 text-sm font-semibold">
               <span className="size-2.5 rounded-full bg-success" aria-hidden="true" />
-              Pedido na cozinha em 3 segundos
+              Pedido na cozinha em segundos
             </p>
           </div>
         </div>

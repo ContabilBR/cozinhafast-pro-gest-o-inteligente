@@ -15,7 +15,7 @@ const pontos = [
   {
     titulo: "Funciona no celular que a equipe já tem",
     texto:
-      "Não exige comprar equipamento novo para começar. Se o garçom tem um celular Android e o restaurante tem wi-fi, dá para rodar.",
+      "Não exige comprar equipamento novo para começar. Se o garçom tem um celular Android ou iPhone e o restaurante tem wi-fi, dá para rodar.",
   },
   {
     titulo: "Simples o bastante para o rush",
